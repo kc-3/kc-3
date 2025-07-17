@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kc-3&label=Profile%20views&color=0e75b6&style=flat" alt="kc-3" /> </p>
 
 
-- 🔭 I’m currently working on **IPEDS Data**
+- 🔭 I’m currently working on **IPEDS Data** 
 
 - 🌱 I’m currently learning **Agentic AI and LLMs**
 
@@ -12,9 +12,9 @@
 
 - 🤝 I’m looking for help with **Job Opportunities**
 
-- 👨‍💻 All of my projects are available at [github.com/kc-3](github.com/kc-3)
+- 👨‍💻 All of my projects are available at [github.com/kc-3](github.com/kc-3) also have a look at the website I built for [sites.clarkson.edu/institutional-research](Institutional Research) at Clarkson University 
 
-- 📝 I regularly write articles on [kc-3000.com | Medium | Linkedin](kc-3000.com | Medium | Linkedin)
+- 📝 I regularly write articles on [https://medium.com/@kranthichaithanya3000](Medium) and [https://www.linkedin.com/in/kranthi-chaithanya-thota/](Linkedin)
 
 - 💬 Ask me about **Machine Learning, NLP, ETL Processes, Big Data and Cloud Computing**
 
@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://kc-3000.com/Kranthi_Chaithanya_Data_Scientist_Resume.pdf](https://kc-3000.com/Kranthi_Chaithanya_Data_Scientist_Resume.pdf)
 
-- ⚡ Fun fact **Shinzo wo Sasageyo !!**
+- ⚡ Fact **Shinzo wo Sasageyo !!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
