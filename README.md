@@ -12,15 +12,15 @@
 
 - 🤝 I’m looking for help with **Job Opportunities**
 
-- 👨‍💻 All of my projects are available at [github.com/kc-3](github.com/kc-3) also have a look at the website I built for [https://sites.clarkson.edu/institutional-research](Institutional-Research) at Clarkson University 
+- 👨‍💻 All of my projects are available at [github.com/kc-3](github.com/kc-3) also have a look at the website I built for [Institutional-Research](https://sites.clarkson.edu/institutional-research) at Clarkson University 
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@kranthichaithanya3000) and [https://www.linkedin.com/in/kranthi-chaithanya-thota/](Linkedin)
+- 📝 I regularly write articles on [Medium](https://medium.com/@kranthichaithanya3000) and [Linkedin](https://www.linkedin.com/in/kranthi-chaithanya-thota/)
 
 - 💬 Ask me about **Machine Learning, NLP, ETL Processes, Big Data and Cloud Computing**
 
 - 📫 How to reach me **kranthichaithanya3000@gmail.com**
 
-- 📄 Know about my experiences [https://kc-3000.com/Kranthi_Chaithanya_Data_Scientist_Resume.pdf](https://kc-3000.com/Kranthi_Chaithanya_Data_Scientist_Resume.pdf)
+- 📄 Know about my experiences [Here](https://kc-3000.com/Kranthi_Chaithanya_Data_Scientist_Resume.pdf)
 
 - ⚡ Fact **Shinzo wo Sasageyo !!**
 
