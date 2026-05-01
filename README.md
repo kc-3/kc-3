@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **kranthichaithanya3000@gmail.com**
 
-- 📄 Know about my experiences [Here](https://kc-3000.com/Kranthi_Chaithanya_Data_Scientist_Resume.pdf)
+- 📄 Know about my experiences [Here](https://kc-3000.com/Kranthi_Chaithanya_Data_Engineer_Resume.pdf)
 
 - ⚡ Fact **Shinzo wo Sasageyo !!**
 
